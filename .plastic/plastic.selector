@@ -1,0 +1,4 @@
+repository "LAB1_SarahDivineLamini@LSD04@cloud"
+  path "/"
+    br "/main"
+    co "/main"
